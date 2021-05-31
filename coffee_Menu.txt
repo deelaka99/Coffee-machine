@@ -1,0 +1,7 @@
+-------------------------------------------------**WELCOME to COFFEE MENU**---------------------------------------------------
+{1}.Black Coffee        *{Price--------LKR.125}        *{Origin--------Africa}        *{Available raw--------15.0Kg}
+{2}.Latte Coffee        *{Price--------LKR.200}        *{Origin--------Africa}        *{Available raw--------17.5Kg}
+{3}.Cappuccino Coffee        *{Price--------LKR.300}        *{Origin--------Spain}        *{Available raw--------10.0Kg}
+{4}.Espresso Coffee        *{Price--------LKR.150}        *{Origin--------America}        *{Available raw--------5.1Kg}
+{5}.Flat white Coffee        *{Price--------LKR.250}        *{Origin--------Spain}        *{Available raw--------4.75Kg}
+{6}.NesCaffee Coffee        *{Price--------LKR.100}        *{Origin--------Sri lanka}        *{Available raw--------10.0Kg}
